@@ -1,0 +1,4 @@
+anormacros
+==========
+
+anorm macros magic!
